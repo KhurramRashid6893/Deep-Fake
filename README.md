@@ -1,4 +1,4 @@
-# Deep Learning Image Applications
+# Deep Learning Image Applications 
 
 A collection of deep learning image applications implemented in **Colab**.
 
