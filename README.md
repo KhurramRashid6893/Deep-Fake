@@ -4,7 +4,7 @@ A collection of deep learning image applications implemented in **Colab**.
 
 ---
 
-## Applications
+## Applications 
 
 - **Face Generation (StyleGAN)** – Generate realistic face images.  
 - **Image-to-Image Translation (CycleGAN)** – Transform images between two domains.  
